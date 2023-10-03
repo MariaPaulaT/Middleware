@@ -27,30 +27,30 @@ A basic Express.js application that generates a band name based on user input. I
 
    ```bash
    git clone https://github.com/your-username/band-name-generator.git
-#Navigate to the project directory:
+# Navigate to the project directory:
 
 bash
 Copy code
 cd band-name-generator
-#Install dependencies:
+# Install dependencies:
 
 bash
 Copy code
 npm install
 Usage
-#Run the application:
+# Run the application:
 
 bash
 Copy code
 npm start
-#Open your browser and go to http://localhost:3000 to access the Band Name Generator.
+# Open your browser and go to http://localhost:3000 to access the Band Name Generator.
 
-#Enter the required information and submit the form to generate a band name.
+# Enter the required information and submit the form to generate a band name.
 
 Request Logger
 Another Express.js application that logs HTTP requests. It also uses Node.js and Express.
 
-Installation
+## Installation
 Clone the repository:
 
 bash
